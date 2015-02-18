@@ -1,0 +1,198 @@
+solid Custom Cal 10mm Cube
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 25.0 10.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 10.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.0 0.0 10.0
+    vertex 22.0 22.0 10.0
+    vertex 22.0 3.0 10.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.0 0.0 10.0
+    vertex 22.0 3.0 10.0
+    vertex 3.0 3.0 10.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 25.0 10.0
+    vertex 25.0 25.0 0.0
+    vertex 0.0 25.0 0.0
+  endloop
+endfacet
+facet normal 0.9999994414289257 -8.420114488148366e-20 -0.001056949306587438
+  outer loop
+    vertex 3.0 22.0 10.0
+    vertex 3.0 3.0 10.0
+    vertex 2.9937652378165898 21.99376523781657 4.101175276814022
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 10.0
+    vertex 0.0 0.0 0.0
+    vertex 25.0 0.0 10.0
+  endloop
+endfacet
+facet normal -5.283943425139284e-05 -0.9999992455941105 0.0012271997409103337
+  outer loop
+    vertex 22.0 22.0 10.0
+    vertex 2.9937652378165898 21.99376523781657 4.101175276814022
+    vertex 21.989079963308615 21.989079963308615 1.1011996680303269
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 25.0 25.0 10.0
+    vertex 25.0 25.0 0.0
+    vertex 0.0 25.0 10.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 25.0 25.0 0.0
+    vertex 25.0 0.0 10.0
+    vertex 25.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 25.0 25.0 10.0
+    vertex 25.0 0.0 10.0
+    vertex 25.0 25.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.0 22.0 10.0
+    vertex 0.0 25.0 10.0
+    vertex 3.0 3.0 10.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 25.0 0.0 10.0
+    vertex 0.0 0.0 0.0
+    vertex 25.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0005792744391464977 0.9999995055701685 0.0008082700925013512
+  outer loop
+    vertex 3.0 3.0 10.0
+    vertex 21.99376523781657 2.9937652378165898 4.101175276814022
+    vertex 3.004685274507975 3.004685274507975 4.199975608783693
+  endloop
+endfacet
+facet normal 0.9999995055701685 0.0005792744391464977 0.0008082700925013512
+  outer loop
+    vertex 2.9937652378165898 21.99376523781657 4.101175276814022
+    vertex 3.0 3.0 10.0
+    vertex 3.004685274507975 3.004685274507975 4.199975608783693
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 25.0 25.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 25.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 25.0 0.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 25.0 25.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.0 25.0 10.0
+    vertex 22.0 22.0 10.0
+    vertex 25.0 0.0 10.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 25.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 25.0 10.0
+  endloop
+endfacet
+facet normal -0.9999994414289257 0.0 0.0010569493065904255
+  outer loop
+    vertex 22.0 22.0 10.0
+    vertex 21.99376523781657 2.9937652378165898 4.101175276814022
+    vertex 22.0 3.0 10.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 3.0 3.0 10.0
+    vertex 0.0 25.0 10.0
+    vertex 0.0 0.0 10.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.0 25.0 10.0
+    vertex 3.0 22.0 10.0
+    vertex 22.0 22.0 10.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.0 25.0 10.0
+    vertex 0.0 25.0 10.0
+    vertex 3.0 22.0 10.0
+  endloop
+endfacet
+facet normal -8.420114488148366e-20 0.9999994414289257 -0.001056949306587438
+  outer loop
+    vertex 22.0 3.0 10.0
+    vertex 21.99376523781657 2.9937652378165898 4.101175276814022
+    vertex 3.0 3.0 10.0
+  endloop
+endfacet
+facet normal -0.9999992455941105 -5.283943425139284e-05 0.0012271997409103337
+  outer loop
+    vertex 22.0 22.0 10.0
+    vertex 21.989079963308615 21.989079963308615 1.1011996680303269
+    vertex 21.99376523781657 2.9937652378165898 4.101175276814022
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.0 0.0 10.0
+    vertex 3.0 3.0 10.0
+    vertex 0.0 0.0 10.0
+  endloop
+endfacet
+facet normal 0.1541708787773957 0.1541708787773957 0.9759419451350635
+  outer loop
+    vertex 21.99376523781657 2.9937652378165898 4.101175276814022
+    vertex 21.989079963308615 21.989079963308615 1.1011996680303269
+    vertex 2.9937652378165898 21.99376523781657 4.101175276814022
+  endloop
+endfacet
+facet normal 0.0 -0.9999994414289257 0.0010569493065904255
+  outer loop
+    vertex 3.0 22.0 10.0
+    vertex 2.9937652378165898 21.99376523781657 4.101175276814022
+    vertex 22.0 22.0 10.0
+  endloop
+endfacet
+facet normal 0.005205860564415797 0.005205860564415797 0.9999728986485423
+  outer loop
+    vertex 21.99376523781657 2.9937652378165898 4.101175276814022
+    vertex 2.9937652378165898 21.99376523781657 4.101175276814022
+    vertex 3.004685274507975 3.004685274507975 4.199975608783693
+  endloop
+endfacet
+endsolid Custom Cal 10mm Cube
